@@ -16,3 +16,9 @@ class Point:
 
     def reset(self):
         self.move(0, 0)
+
+# Constructing a point
+
+point = Point(3,5)
+print(point.x, point.y)
+
