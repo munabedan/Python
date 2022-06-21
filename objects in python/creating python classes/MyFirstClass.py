@@ -1,11 +1,12 @@
-"Implement a python class"
+# Implement a python class
 class MyFirstClass:
 
-	"The class has no methods"
-	pass
+    # The class has no methods
+    pass
 
-"Instantiate the class"
+
+# Instantiate the class
 a = MyFirstClass()
 
-"Print the variable"
+# Print the variable
 print(a)
