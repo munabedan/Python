@@ -1,0 +1,41 @@
+Quick Questions
+
+1. Ctrl+/
+
+2. The opened-closed principle that states that a function should be open for extension but closed for modification. 
+
+3. return
+
+4.  Parameters reffers to information passed to a function.
+    Arguments reffers to values passed to a function when its called.
+
+5. 
+    import random
+    x = random.randint(1,100)
+    print(x)
+
+6. range()
+   print()
+   int()
+   input()
+
+7.
+   
+
+
+
+Good Names
+
+
+1. calculate_grade_from_total_score
+
+2. convert_USD_to_AUD
+
+3. print_report
+
+4. get_average_from_list
+
+5. is_even
+
+6. is_negative
+
